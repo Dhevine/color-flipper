@@ -3,10 +3,7 @@ const hexNumber = document.querySelector("#hex")
 const rgbNumber = document.querySelector("#rgb")
 const body = document.querySelector("body")
 body.style.backgroundColor = "rgb(0,233,123)"
-// console.dir(body.style)
 
-
-another idea
 const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"]
 
 clickBtn.addEventListener("click", function () {
